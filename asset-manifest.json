@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adrianmarceloledesma/App-Control-de-Gastos/static/css/main.4b018416.chunk.css",
+    "main.js": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/main.ba8aa435.chunk.js",
+    "main.js.map": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/main.ba8aa435.chunk.js.map",
+    "runtime-main.js": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/runtime-main.75118163.js",
+    "runtime-main.js.map": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/runtime-main.75118163.js.map",
+    "static/js/2.07b9bee2.chunk.js": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/2.07b9bee2.chunk.js",
+    "static/js/2.07b9bee2.chunk.js.map": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/2.07b9bee2.chunk.js.map",
+    "index.html": "/adrianmarceloledesma/App-Control-de-Gastos/index.html",
+    "precache-manifest.596c100d1650e34713e2864df22dfa83.js": "/adrianmarceloledesma/App-Control-de-Gastos/precache-manifest.596c100d1650e34713e2864df22dfa83.js",
+    "service-worker.js": "/adrianmarceloledesma/App-Control-de-Gastos/service-worker.js",
+    "static/css/main.4b018416.chunk.css.map": "/adrianmarceloledesma/App-Control-de-Gastos/static/css/main.4b018416.chunk.css.map",
+    "static/js/2.07b9bee2.chunk.js.LICENSE.txt": "/adrianmarceloledesma/App-Control-de-Gastos/static/js/2.07b9bee2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75118163.js",
+    "static/js/2.07b9bee2.chunk.js",
+    "static/css/main.4b018416.chunk.css",
+    "static/js/main.ba8aa435.chunk.js"
+  ]
+}
